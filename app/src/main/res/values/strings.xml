@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Text Repeater Demo</string>
+
+    <string name="input_et">Input EditText</string>
+    <string name="input_hint">Text to Repeat</string>
+
+    <string name="number_et">Number EditText</string>
+    <string name="number_hint">Number to Repeat</string>
+
+    <string name="engage_btn_text">Engage</string>
+    <string name="engage_btn">Engage Button</string>
+
+    <string name="output_et">Output EditText</string>
+
+</resources>
